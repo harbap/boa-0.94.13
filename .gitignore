@@ -1,0 +1,14 @@
+*ko.*
+*.tmp_*
+*Module.symvers*
+*.mod.c
+*.order
+
+*.o
+*.o.*
+*.a
+*.s
+*.ko
+*.so
+
+*.si4project/

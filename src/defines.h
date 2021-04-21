@@ -34,7 +34,7 @@
 #define DEFAULT_PATH     "/bin:/usr/bin:/usr/local/bin"
 
 /***** Change this via the SinglePostLimit configuration value in boa.conf *****/
-#define SINGLE_POST_LIMIT_DEFAULT               1024 * 1024 /* 1 MB */
+#define SINGLE_POST_LIMIT_DEFAULT               20*1024 * 1024 /* 1 MB */
 
 /***** Various stuff that you may want to tweak, but probably shouldn't *****/
 
